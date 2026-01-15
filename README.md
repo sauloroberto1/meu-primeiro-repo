@@ -6,3 +6,4 @@ Este repositório foi criado para aprender GitHub do zero.
 - Criar repositórios
 - Fazer commits
 - Versionar arquivos
+- Aprendendo passo a passo.
